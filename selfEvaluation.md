@@ -1,6 +1,6 @@
 # Self Evaluation
 
-- How confident do you feel in your understanding and fluency with the `for` statement?
-- This was a much more advanced concept than anything you've done in Mod 0, and the exercises required you to push yourself to apply other background knowledge or learn things outside of the curriculum - how did that feel? Did you have productive struggle? Unproductive struggle?
-- What do you still need to practice or learn? How will you do that? Do you need to adjust your calendar in order to do that?
-- What questions do you still have? How will you get the answers you need?
+- How confident do you feel in your understanding and fluency with the `for` statement? I understand creating the parameters for the index / creating an index but the if statements that come after are difficult to come up with. 
+- This was a much more advanced concept than anything you've done in Mod 0, and the exercises required you to push yourself to apply other background knowledge or learn things outside of the curriculum - how did that feel? Did you have productive struggle? Unproductive struggle? Well i figured it out so i'd say it was productive. 
+- What do you still need to practice or learn? How will you do that? Do you need to adjust your calendar in order to do that? I need to read up on the .length command. Like i dont understand how `i < words.length;` is telling the index where to stop and then i can use that same exact syntax in an if statement to evaluate if its equal to 3, or whatever.
+- What questions do you still have? How will you get the answers you need? I don't even know but i dont feel like i have a solid grasp yet. It took me so long and so many trial and errors of just moving code around to finally get the answers but i'd have a hard time explaining why. 
